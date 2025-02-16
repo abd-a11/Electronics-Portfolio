@@ -33,7 +33,7 @@ Below is the **PCB layout**:
   ![Top View](../Project4/Images/AC_Phase_Cut_3D.PNG)
 
 - **Side View**  
-  ![Side View](./Images/fl5150_3d_side.png)
+  ![Side View](../Project4/Images/AC_Phase_Cut_PCB2.PNG)
 
 ---
 
