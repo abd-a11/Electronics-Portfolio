@@ -14,7 +14,7 @@ This project is an **FM radio receiver** built using the **STC15W408AS microcont
 Here are the **schematic** and **PCB model images**:
 
 - **Schematic:**  
-  ![Schematic](Project1/Images/RF_Schematic.PNG)  
+  ![Schematic](../Project1/Images/RF_Schematic.PNG)  
 - **PCB:**
   ![PCB](Project1/Images/RF_PCB.PNG)  
   
