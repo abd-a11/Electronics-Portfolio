@@ -14,7 +14,7 @@ This project automates **LED lighting on stairs** using a **VCNL4200 proximity s
 ## 🔹 Work Principle:
 1. **VCNL4200 Sensor Detection**: Senses movement using **infrared proximity sensing**.
 2. **ATTiny Microcontroller**: Processes the signal and controls the LED lighting sequence.
-3. **MOSFET or LED Driver (if used)**: Switches LEDs with **PWM dimming** for smooth transitions.
+3. **MOSFET or LED Driver: Switches LEDs with **PWM dimming** for smooth transitions.
 4. **LP2985 LDO Regulator**: Supplies stable power to the microcontroller and sensor.
 
 ---
