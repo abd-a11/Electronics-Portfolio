@@ -33,7 +33,7 @@ Below is the **PCB layout**:
   ![Top View](../Project5/Images/light_control_3D1.PNG)
 
 - **Side View**  
-  ![Side View](./Images/stair_led_3d_side.png)
+  ![Side View](../Project5/Images/light_control_3D2.PNG)
 
 ---
 
@@ -49,8 +49,4 @@ Below is the **PCB layout**:
 - ⚡ Integrate **wireless control** for remote operation.
 - 🔋 Use a **battery-powered version** for off-grid applications.
 
----
-
-## 🔹 License:
-This project is open-source. Feel free to modify and improve it!
 
