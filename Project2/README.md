@@ -31,7 +31,7 @@ Below is the **PCB design**:
 ## 🔹 3D Model:
 Here are the **3D models** of the PCB for a better visualization:  
 - **Top View**  
-  ![Top View](./Images/security_alarm_3d_top.png)
+  ![Top View](../Project2/Images/Security_System_Top.PNG)
 
 
 ---
