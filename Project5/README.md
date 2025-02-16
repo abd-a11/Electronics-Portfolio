@@ -21,7 +21,7 @@ This project automates **LED lighting on stairs** using a **VCNL4200 proximity s
 
 ## 🔹 Schematic & PCB Design:
 Here is the **schematic diagram** for the stair LED control system:  
-![Schematic](./Images/stair_led_schematic.png)
+![Schematic](../Project5/Images/light_control_schematic.PNG)
 
 Below is the **PCB layout**:  
 ![PCB Design](./Images/stair_led_pcb.png)
