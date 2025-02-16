@@ -24,7 +24,7 @@ Here is the **schematic diagram** for the stair LED control system:
 ![Schematic](../Project5/Images/light_control_schematic.PNG)
 
 Below is the **PCB layout**:  
-![PCB Design](./Images/stair_led_pcb.png)
+![PCB Design](../Project5/Images/light_control_PCB.PNG)
 
 ---
 
