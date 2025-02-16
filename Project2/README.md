@@ -21,7 +21,7 @@ This project is a **security alarm system** designed to detect the presence of a
 
 ## 🔹 Schematic & PCB Design:
 Here is the **schematic diagram** for the security alarm system:  
-![Schematic](./Images/security_alarm_schematic.png)
+![Schematic](../Project2/Images/Security_Schematic.PNG)
 
 Below is the **PCB design**:  
 ![PCB Design](../Project2/Images/Security_PCB.PNG)
