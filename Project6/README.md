@@ -45,7 +45,7 @@ In this circuit, **two separate grounds** are used:
 
 ## 🔹 Schematic & PCB Design:
 Here is the **schematic diagram**:  
-![Schematic](./Images/sg3525a_tlp250_schematic.png)
+![Schematic](../Project6/Images/PWM_Conroller_Gate_Driver_Schematic.PNG)
 
 Below is the **PCB layout**:  
 ![PCB Design](./Images/sg3525a_tlp250_pcb.png)
