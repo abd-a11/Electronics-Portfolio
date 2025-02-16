@@ -24,7 +24,7 @@ Here is the **schematic diagram** of the dimmable LED driver:
 ![Schematic](./Images/fl5150_schematic.png)
 
 Below is the **PCB layout**:  
-![PCB Design](./Images/fl5150_pcb.png)
+![PCB Design](../Project4/Images/AC_Phase_Cut_PCB.PNG)
 
 ---
 
