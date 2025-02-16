@@ -26,7 +26,7 @@ Here is the **schematic diagram** for the boost converter:
 ![Schematic](./Images/boost_converter_schematic.png)
 
 Below is the **PCB design**:  
-![PCB Design](./Images/boost_converter_pcb.png)
+![PCB Design](../Project3/Images/Buck_Boost_Converter_PCB.PNG)
 
 ---
 
