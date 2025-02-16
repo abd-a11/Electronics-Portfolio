@@ -5,5 +5,5 @@ A showcase of my EasyEDA circuit designs.
 Here are the 3D images of the PCB layout:  
 
 - **Top View**  
-  ![Top View](./Images/RF_Radio_Top.PNG)  
+  ![Top View](Project1/Images/RF_Radio_Top.PNG)  
 
