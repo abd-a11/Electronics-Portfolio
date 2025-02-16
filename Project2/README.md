@@ -24,7 +24,7 @@ Here is the **schematic diagram** for the security alarm system:
 ![Schematic](./Images/security_alarm_schematic.png)
 
 Below is the **PCB design**:  
-![PCB Design](./Images/security_alarm_pcb.png)
+![PCB Design](../Project2/Images/Security_PCB.PNG)
 
 ---
 
