@@ -5,7 +5,7 @@ A showcase of my EasyEDA circuit designs.
 Here are the 3D images of the PCB layout:  
 
 - **Top View**  
-  ![Top View](./Images/pcb_3d_top.png)  
+  ![Top View](./Images/RF_Radio_Top.png)  
 
 - **Side View**  
   ![Side View](./Images/pcb_3d_side.png)  
