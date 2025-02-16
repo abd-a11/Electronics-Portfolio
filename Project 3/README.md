@@ -32,11 +32,9 @@ Below is the **PCB design**:
 
 ## 🔹 3D Model:
 Here are the **3D models** of the PCB for better visualization:  
-- **Top View**  
-  ![Top View](./Images/boost_converter_3d_top.png)
+- **3D view**  
+  ![3D view0](../Project3/Images/Buck_Boost_Converter_3D.PNG)
 
-- **Side View**  
-  ![Side View](./Images/boost_converter_3d_side.png)
 
 ---
 
