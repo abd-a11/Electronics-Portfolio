@@ -21,7 +21,7 @@ This project is a **phase-cut dimmable LED driver** using the **FL5150** IC. Ins
 
 ## 🔹 Schematic & PCB Design:
 Here is the **schematic diagram** of the dimmable LED driver:  
-![Schematic](./Images/fl5150_schematic.png)
+![Schematic](../Project4/Images/AC_Phase_Cut_Schematic.PNG)
 
 Below is the **PCB layout**:  
 ![PCB Design](../Project4/Images/AC_Phase_Cut_PCB.PNG)
