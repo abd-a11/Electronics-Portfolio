@@ -13,14 +13,10 @@ This project is an **FM radio receiver** built using the **STC15W408AS microcont
 - 🔋 **3.3V Regulated Power Supply** with AMS1117.  
 
 ## 🔹 Schematic & PCB
-Here are the **schematic** and **3D PCB model images**:
+Here are the **schematic**:
 
 - **Schematic:**  
-  ![Schematic](./Images/radio_schematic.png)  
-
-- **3D PCB Model:**  
-  ![Top View](./Images/pcb_3d_top.png)  
-  ![Side View](./Images/pcb_3d_side.png)  
+  ![Schematic](Project1/Images/RF_Schematic.PNG)  
 
 ## 🔹 Components Used
 | Component | Description |
