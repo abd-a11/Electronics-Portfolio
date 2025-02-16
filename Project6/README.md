@@ -76,6 +76,3 @@ Below is the **PCB layout**:
 
 ---
 
-## 🔹 License:
-This project is open-source. Feel free to modify and improve it!
-
