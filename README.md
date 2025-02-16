@@ -18,7 +18,7 @@ Here are the **schematic**:
 - **Schematic:**  
   ![Schematic](Project1/Images/RF_Schematic.PNG)  
 - **PCB:**
-![PCB](Project1/Images/RF_PCB.PNG)  
+  ![PCB](Project1/Images/RF_PCB.PNG)  
   
 ## 🔹 Components Used
 | Component | Description |
