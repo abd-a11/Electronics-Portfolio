@@ -16,7 +16,7 @@ Here are the **schematic** and **PCB model images**:
 - **Schematic:**  
   ![Schematic](../Project1/Images/RF_Schematic.PNG)  
 - **PCB:**
-  ![PCB](Project1/Images/RF_PCB.PNG)  
+  ![PCB](../Project1/Images/RF_PCB.PNG)  
   
 ## 🔹 Components Used
 | Component | Description |
@@ -42,6 +42,6 @@ Here are the **schematic** and **PCB model images**:
 Here are the 3D images of the PCB layout:  
 
 - **Top View**  
-  ![Top View](Project1/Images/RF_Radio_Top.PNG)  
+  ![Top View](../Project1/Images/RF_Radio_Top.PNG)  
 - **Side View**  
-  ![Side View](Project1/Images/RF_Radio_side.PNG)  
+  ![Side View](../Project1/Images/RF_Radio_side.PNG)  
