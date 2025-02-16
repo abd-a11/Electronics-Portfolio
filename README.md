@@ -38,9 +38,7 @@ Here are the **schematic** and **PCB model images**:
 - 🔧 Add an **OLED display** for better readability.  
 - 📶 Improve **antenna reception** for better signal strength.  
 - 🔊 Implement **automatic station scanning**.  
-
-## 🔹 License
-This project is open-source. Feel free to modify and improve it!  
+ 
 
 ## 3D Model  
 Here are the 3D images of the PCB layout:  
