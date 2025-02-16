@@ -23,7 +23,7 @@ This project is a **single inductor boost converter** using the **TPS6302** IC, 
 
 ## 🔹 Schematic & PCB Design:
 Here is the **schematic diagram** for the boost converter:  
-![Schematic](./Images/boost_converter_schematic.png)
+![Schematic](../Project3/Images/Buck_Boost_Converter_Schematic.PNG)
 
 Below is the **PCB design**:  
 ![PCB Design](../Project3/Images/Buck_Boost_Converter_PCB.PNG)
