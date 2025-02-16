@@ -57,7 +57,7 @@ Below is the **PCB layout**:
   ![Top View](./Images/sg3525a_tlp250_3d_top.png)
 
 - **Side View**  
-  ![Side View](./Images/sg3525a_tlp250_3d_side.png)
+  ![Side View](../Project6/Images/PWM_Conroller_Gate_Driver_3D2.PNG)
 
 ---
 
