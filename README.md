@@ -5,3 +5,4 @@ A showcase of my EasyEDA circuit designs.
 # Project 3: Buck Boost_Converter TPS6302.
 # Project 4: AC Phase-Cut Dimmer Controller.
 # Project 5: LED Control System with Proximity Sensor.
+# Project 6: SG3525A-Based PWM Controller with TLP250 Gate Drivers.
