@@ -30,7 +30,7 @@ Below is the **PCB layout**:
 
 ## 🔹 3D Model:
 - **Top View**  
-  ![Top View](./Images/stair_led_3d_top.png)
+  ![Top View](../Project5/Images/light_control_3D1.PNG)
 
 - **Side View**  
   ![Side View](./Images/stair_led_3d_side.png)
