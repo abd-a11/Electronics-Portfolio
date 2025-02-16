@@ -30,7 +30,7 @@ Below is the **PCB layout**:
 
 ## 🔹 3D Model:
 - **Top View**  
-  ![Top View](./Images/fl5150_3d_top.png)
+  ![Top View](../Project4/Images/AC_Phase_Cut_3D.PNG)
 
 - **Side View**  
   ![Side View](./Images/fl5150_3d_side.png)
