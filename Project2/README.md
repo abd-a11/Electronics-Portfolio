@@ -33,8 +33,6 @@ Here are the **3D models** of the PCB for a better visualization:
 - **Top View**  
   ![Top View](./Images/security_alarm_3d_top.png)
 
-- **Side View**  
-  ![Side View](./Images/security_alarm_3d_side.png)
 
 ---
 
@@ -51,9 +49,6 @@ Here are the **3D models** of the PCB for a better visualization:
 - 🔧 Integrate **motion sensors** for more precise detection.
 - 🔊 Implement different alarm types (e.g., loud sirens, flashing lights).
 
----
 
-## 🔹 License:
-This project is open-source. Feel free to modify and improve it!
 
 
