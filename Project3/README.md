@@ -51,9 +51,6 @@ Here are the **3D models** of the PCB for better visualization:
 - 🔧 Experiment with different inductor values to improve efficiency.  
 - 🔋 Add a battery management system for portable applications.  
 
----
 
-## 🔹 License:
-This project is open-source. Feel free to modify and improve it!
 
 
