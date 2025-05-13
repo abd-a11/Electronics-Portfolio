@@ -25,6 +25,8 @@ This custom board serves as a **compact EtherCAT slave** that communicates with 
 
 This project is released as open-source hardware and is part of an ongoing effort to customize the original EVB-LAN9252-SPI design for more flexible integration and prototyping.
 
+
+Schematics:
 #1
 ![Top View](../Project7/Schematic/LAN9252-1.png)
 #2
@@ -37,3 +39,14 @@ This project is released as open-source hardware and is part of an ongoing effor
 The original Board-to-Board (B2B) connector is being replaced with a 10-pin header for easier connectivity.
 The selected header is:
 🔧 TE Connectivity 5-1775444-6 (2x5, 1.27mm pitch, SMT header)
+
+
+
+Updated-Schematics with costum change:
+
+#UnderProcess
+
+
+PCB Version:
+
+#UnderProcess
