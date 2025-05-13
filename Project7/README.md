@@ -25,7 +25,11 @@ This custom board serves as a **compact EtherCAT slave** that communicates with 
 
 This project is released as open-source hardware and is part of an ongoing effort to customize the original EVB-LAN9252-SPI design for more flexible integration and prototyping.
 
-
+#1
+![Top View](../Project7/Schematic/LAN9252-1.png)
+#2
+![Top View](../Project7/Schematic/LAN9252-2.png)
+#
 ![Top View](../Project7/Schematic/LAN9252-1.png)
 
 
