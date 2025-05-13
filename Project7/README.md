@@ -29,8 +29,8 @@ This project is released as open-source hardware and is part of an ongoing effor
 ![Top View](../Project7/Schematic/LAN9252-1.png)
 #2
 ![Top View](../Project7/Schematic/LAN9252-2.png)
-#
-![Top View](../Project7/Schematic/LAN9252-1.png)
+#3
+![Top View](../Project7/Schematic/LAN9252-3.png)
 
 
 🛠️ Current Modification:
