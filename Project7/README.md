@@ -22,3 +22,12 @@ This custom board serves as a **compact EtherCAT slave** that communicates with 
 - ✅ On-board **status and strap configuration LEDs**
 - ✅ Includes **RS485 header** for serial communication (optional)
 - ✅ Modular design suitable for real-time automation
+
+This project is released as open-source hardware and is part of an ongoing effort to customize the original EVB-LAN9252-SPI design for more flexible integration and prototyping.
+
+📄 View Schematic
+
+🛠️ Current Modification:
+The original Board-to-Board (B2B) connector is being replaced with a 10-pin header for easier connectivity.
+The selected header is:
+🔧 TE Connectivity 5-1775444-6 (2x5, 1.27mm pitch, SMT header)
