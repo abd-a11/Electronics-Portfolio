@@ -1,4 +1,4 @@
-
+                        #UNDERPROCESSING# 
  🧠 Custom LAN9252 EtherCAT Slave Board (SPI Interface)
 
 This project is a **custom hardware design** based on the **Microchip LAN9252** EtherCAT slave controller using an **SPI interface**. It is derived from the reference design **EVB-LAN9252-SPI**, with hardware adjustments for better integration and application-specific improvements.
