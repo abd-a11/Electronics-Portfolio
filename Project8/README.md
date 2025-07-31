@@ -44,3 +44,10 @@ It integrates an **STM32Fxxx microcontroller** with the **DRV8302 MOSFET driver*
 ---
 Sheets Schematic Diagram:
 ![Schematic Preview](../Project8/Library/Sheets-page.PNG)
+
+---
+Block Diagram:
+
+![Schematic Preview](../Project8/Library/block-diagram.PNG)
+
+
