@@ -51,7 +51,12 @@ Block Diagram:
 ![Schematic Preview](../Project8/Library/block-diagram.PNG)
 
 ---
-MCU Schematic:
+MCU Schematic STM32F4:
 
 ![Schematic Preview](../Project8/Library/MCU.PNG)
 
+---
+DRV8302 MOSFET Driver Schematic:
+![Schematic Preview](../Project8/Library/MOSFET_DRIVER.PNG)
+
+---
