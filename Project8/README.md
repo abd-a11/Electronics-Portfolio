@@ -50,4 +50,8 @@ Block Diagram:
 
 ![Schematic Preview](../Project8/Library/block-diagram.PNG)
 
+---
+MCU Schematic:
+
+![Schematic Preview](../Project8/Library/MCU.PNG)
 
