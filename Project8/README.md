@@ -5,9 +5,6 @@ It integrates an **STM32Fxxx microcontroller** with the **DRV8302 MOSFET driver*
 
 ---
 
-![Schematic Preview](Project8/Library/Sheets-page.PNG)
-
----
 
 ## Features
 - **MCU:** STM32Fxxx series (ARM Cortex-M)  
