@@ -41,3 +41,5 @@ It integrates an **STM32Fxxx microcontroller** with the **DRV8302 MOSFET driver*
 - Other BLDC motor control systems  
 
 ---
+Sheets Schematic:
+![Schematic Preview](Project8/Library/Sheets-page.PNG)
