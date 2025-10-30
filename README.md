@@ -1,5 +1,5 @@
 # Electronics-Portfolio
-A showcase of my EasyEDA circuit designs.
+A showcase of my EDA circuit designs.
 # Project 1: FM Radio Receiver.
 # Project 2: Radar-Security Alarm System.
 # Project 3: Buck Boost Converter TPS6302.
