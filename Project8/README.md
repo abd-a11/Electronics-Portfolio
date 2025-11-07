@@ -85,3 +85,13 @@ FILTER:
 USB CONNECTOR:
 
 ![Schematic Preview](../Project8/Library/USB.PNG)
+
+____________________________________________________________________________________________________________________________________________________________________
+
+## PCB AND LAYOUT LEVEL:
+![Schematic Preview](../Project8/Library/Final Drawing.PNG)
+
+
+## 3D View:
+
+![Schematic Preview](../Project8/Library/3d final drawing-front.PNG)
