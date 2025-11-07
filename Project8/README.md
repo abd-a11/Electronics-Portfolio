@@ -89,9 +89,10 @@ USB CONNECTOR:
 ____________________________________________________________________________________________________________________________________________________________________
 
 ## PCB AND LAYOUT LEVEL:
-![Schematic Preview](../Project8/Library/Final Drawing.PNG)
+![Schematic Preview](../Project8/Library/Final-Drawing.PNG)
 
 
 ## 3D View:
 
-![Schematic Preview](../Project8/Library/3d final drawing-front.PNG)
+![Schematic Preview](../Project8/Library/3D-Front.PNG)
+![Schematic Preview](../Project8/Library/3D-Rear.PNG)
