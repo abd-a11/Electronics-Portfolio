@@ -51,6 +51,14 @@ Block Diagram:
 ![Schematic Preview](../Project8/Library/block-diagram.PNG)
 
 ---
+INPUT PROTECTION:
+![Schematic Preview](../Project8/Library/input-protection.PNG)
+
+---
+STEP DOWN:
+![Schematic Preview](../Project8/Library/step-down.PNG)
+
+---
 MCU Schematic STM32F4:
 
 ![Schematic Preview](../Project8/Library/MCU.PNG)
@@ -60,3 +68,20 @@ DRV8302 MOSFET Driver Schematic:
 ![Schematic Preview](../Project8/Library/MOSFET_DRIVER.PNG)
 
 ---
+MOSFET's
+![Schematic Preview](../Project8/Library/MOSFETS.PNG)
+
+---
+CAN BUS:
+
+![Schematic Preview](../Project8/Library/CAN.PNG)
+
+---
+FILTER:
+
+![Schematic Preview](../Project8/Library/filters.PNG)
+
+---
+USB CONNECTOR:
+
+![Schematic Preview](../Project8/Library/USB.PNG)
